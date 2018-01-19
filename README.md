@@ -17,7 +17,7 @@ The format of migrations.json looks like this:
     {
       "uploaded_at": "2018-01-15T00:00:00Z",
       "begins_at":  "2018-01-15T00:00:00Z",
-      "url": "/mobile/databases/GTFS-2018-01-15T00:00:00Z.sqlite"
+      "url": "/mobile/databases/GTFS-2018-01-15T00:00:00Z.sqlite.gz"
     }
   ]
 }
